@@ -31,7 +31,8 @@ To embark on your own MoodFlix adventure:
 git clone #repository-url
 cd MoodFlix
 # Backend setup
-pip install -r requirements.txt
+pip install Flask
+pip install flask-mysqldb
 # Frontend setup
 cd frontend
 npm install
