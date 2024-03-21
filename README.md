@@ -41,7 +41,7 @@ npm install
 
 Launch MoodFlix in a jiffy:
 # Start the Flask server
-```python app.py```
+```python main.py```
 # Fire up the React app
 ```cd frontend && npm start```
 
